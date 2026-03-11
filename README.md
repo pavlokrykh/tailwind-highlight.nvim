@@ -8,7 +8,7 @@ distinct color, so your **custom classes stay visually separate**.
 No color swatches, no virtual text — just a different highlight for classes that
 Tailwind owns.
 
-<img width="452" height="192" alt="Screenshot 2026-03-11 at 2 44 33 PM" src="https://github.com/user-attachments/assets/fbf0e1d0-8b77-4a16-87c5-9ae682a9d70f" />
+<img width="451" height="195" alt="Screenshot 2026-03-11 at 2 45 21 PM" src="https://github.com/user-attachments/assets/95afda35-3e62-4941-974b-76888a250d8d" />
 
 ## The Problem
 
